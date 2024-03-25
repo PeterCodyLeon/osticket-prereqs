@@ -40,7 +40,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 Enable php in IIS buy going clicking PHP manager and going to php and click php.cgi and click restart.
 
- ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/fa81e6b8-dee5-4a51-a91c-c5a08479b644)
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/65bdc271-36d3-4aa8-8ed4-3a68d2a7cd38)
+
 
 Download osTicket from the Installation Files Folder
 Extract and copy “upload” folder to c:\inetpub\wwwroot
