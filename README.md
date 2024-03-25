@@ -53,7 +53,7 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 <p>"/>
 </p>
  </p>
- (https://imgur.com/a/wpVuSZe)
+
 
 </p>
 <br />
