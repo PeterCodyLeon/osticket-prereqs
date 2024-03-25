@@ -70,7 +70,8 @@ Email Setup
 
 Setting up your system to accept emails varies from system to system and your personal preference. osTicket allows you to route unlimited number of emails as incoming tickets. For detailed instruction please see :doc:`Email Settings Guide <Email Settings>`.
 
-![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/5120e759-f096-406c-b13a-0435dfddbc5d)
+
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/9f5bd5d8-b2f7-4761-a958-45d8389ce1a3)
 
 Post Installation Setup
 -----------
