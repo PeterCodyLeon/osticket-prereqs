@@ -33,6 +33,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  
 <h2>Installation Steps</h2>
 
+
+We need to install the we will need to install the Internet Information Services (IIS). To install  Internet Information Service we will search for the Control Panel --> under programs select Uninstall a Program.. To install the Web Platform Installer we will search for the Control Panel --> under programs select Uninstall a Program.
+<img width="859" alt="os picture 1" src="https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/5ed96ee3-b08a-4e0d-b48d-779f6c7d4c12">
+
+
+
+
+
+
 <p>
 <img ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/1471bb95-2457-4b52-b598-9d8403ff6b02)
 
