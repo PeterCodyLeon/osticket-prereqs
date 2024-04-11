@@ -78,13 +78,17 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
  Restart the IIS Server
 Search for Internet Information Services (IIS) and select Open
 Select Restart on the right-hand side
-On the left side of the screen, select Virtualmachine > Sites > Default Website > osTicket
+On the left side of the screen, select Desktop > Sites > Default Website > osTicket
 On the right side of the screen, click “Browse *:80”
 This should open osTicket in your web browser
-Before continuing, head back to IIS
-Open IIS
+
 <p>
 <img width="801" alt="at" src="https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/c5cb0eb2-2e3a-4ac2-bf8e-26fa0c49d271">
+
+<img width="794" alt="at" src="https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/414c2741-822a-4770-9239-2d030ecda869">
+
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/6b53e64a-4087-408c-bea2-4466cd6e3ccf)
+
 
  
 <img 
