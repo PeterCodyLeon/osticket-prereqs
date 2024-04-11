@@ -52,6 +52,8 @@ After we've reached the next page, we can now select to Turn Windows features on
 
 Enable php in IIS buy going clicking PHP manager and going to php and click php.cgi and click restart.
 
+<img width="616" alt="ab" src="https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/3fe3e6bc-a1b1-4d22-99f2-b8c6edc04609">
+
 
 
 Download osTicket from the Installation Files Folder
