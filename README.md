@@ -38,6 +38,9 @@ We need to install the we will need to install the Internet Information Services
 <img width="859" alt="os picture 1" src="https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/5ed96ee3-b08a-4e0d-b48d-779f6c7d4c12">
 
 
+After we've reached the next page, we can now select to Turn Windows features on or off. Then click the box to enable 'Internet Information Services' (IIS) from the available services.
+
+<img width="802" alt="A os" src="https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/4a93e7e1-a678-46b2-b6bf-3873bf9d8c51">
 
 
 
