@@ -87,7 +87,7 @@ This should open osTicket in your web browser
 
 <img width="794" alt="at" src="https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/414c2741-822a-4770-9239-2d030ecda869">
 
-![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/6b53e64a-4087-408c-bea2-4466cd6e3ccf)
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/9187111b-3271-40e0-9881-4e17940c0edb)
 
 
  
