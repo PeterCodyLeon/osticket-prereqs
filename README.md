@@ -71,13 +71,22 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
 <p>"/>
 </p>
- </p>
-
 
 </p>
 <br />
 
+ Restart the IIS Server
+Search for Internet Information Services (IIS) and select Open
+Select Restart on the right-hand side
+On the left side of the screen, select Virtualmachine > Sites > Default Website > osTicket
+On the right side of the screen, click “Browse *:80”
+This should open osTicket in your web browser
+Before continuing, head back to IIS
+Open IIS
 <p>
+<img width="801" alt="at" src="https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/c5cb0eb2-2e3a-4ac2-bf8e-26fa0c49d271">
+
+ 
 <img 
 <p>
 At this point you should have downloaded latest version of osTicket. Uncompress the files and upload files and directories in upload folder to a directory of your choice on your server. For example /osticket/, /helpdesk/ or /support/ depending on your preference. Basic knowledge of using FTP is a plus at this stage. If you don’t know how to use FTP, we would recommend you read the documentation supplied with your FTP client and learn the basics of uploading and setting permissions on files.
