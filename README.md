@@ -89,8 +89,18 @@ This should open osTicket in your web browser
 
 ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/9187111b-3271-40e0-9881-4e17940c0edb)
 
+Continue Setting Up osTicket in Browser
+Go back to the browser and click Continue
+Name: Helpdesk
+Email: whichever email you want
+First Name: your first name
+Last Name: your last name
+Email Address: whichever email you want (needs to be different from the Helpdesk's default email)
+Username: Peter Leon
+Password: Enter password of choice as long as it's strong to protect your information
 
- 
+ ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/cf26d38d-2c86-490b-b172-771a37f7a7d4)
+
 <img 
 <p>
 At this point you should have downloaded latest version of osTicket. Uncompress the files and upload files and directories in upload folder to a directory of your choice on your server. For example /osticket/, /helpdesk/ or /support/ depending on your preference. Basic knowledge of using FTP is a plus at this stage. If you don’t know how to use FTP, we would recommend you read the documentation supplied with your FTP client and learn the basics of uploading and setting permissions on files.
