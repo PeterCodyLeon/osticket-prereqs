@@ -101,6 +101,12 @@ Password: Enter password of choice as long as it's strong to protect your inform
 
  ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/cf26d38d-2c86-490b-b172-771a37f7a7d4)
 
+
+ 
+
+ ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/e75e715a-1bda-41c3-be50-a3a5d1f03a9c)
+
+
 <img 
 <p>
 At this point you should have downloaded latest version of osTicket. Uncompress the files and upload files and directories in upload folder to a directory of your choice on your server. For example /osticket/, /helpdesk/ or /support/ depending on your preference. Basic knowledge of using FTP is a plus at this stage. If you don’t know how to use FTP, we would recommend you read the documentation supplied with your FTP client and learn the basics of uploading and setting permissions on files.
