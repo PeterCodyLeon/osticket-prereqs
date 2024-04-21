@@ -99,6 +99,14 @@ From: ost-SAMPLEconfig.php
 To: ost-config.php
 
 
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/80d23456-4063-45db-9bb6-0ff3b2009c4d)
+
+ Assign Permissions to ost-config.php
+Right-click ost-config.php
+Open Properties > Security > Advanced > Permissions
+Select Disable Inheritance > Remove all inherited permissions from this object
+
+
 
 ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/9187111b-3271-40e0-9881-4e17940c0edb)
 
