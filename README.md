@@ -87,6 +87,16 @@ This should open osTicket in your web browser
 
 <img width="794" alt="at" src="https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/414c2741-822a-4770-9239-2d030ecda869">
 
+
+
+
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/f682a060-0715-45d2-a9dd-2f41e94ca569)
+
+Open Windows Explorer and select C: > inetpub > wwwroot > osTicket > include
+Rename the following file:
+From: ost-SAMPLEconfig.php
+To: ost-config.php
+
 ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/9187111b-3271-40e0-9881-4e17940c0edb)
 
 Continue Setting Up osTicket in Browser
