@@ -90,12 +90,15 @@ This should open osTicket in your web browser
 
 
 
-![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/f682a060-0715-45d2-a9dd-2f41e94ca569)
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/40060ba4-efa6-4bd2-8413-0ae56e6e5b9e)
+
 
 Open Windows Explorer and select C: > inetpub > wwwroot > osTicket > include
 Rename the following file:
 From: ost-SAMPLEconfig.php
 To: ost-config.php
+
+
 
 ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/9187111b-3271-40e0-9881-4e17940c0edb)
 
