@@ -114,8 +114,13 @@ Select Disable Inheritance > Remove all inherited permissions from this object
 ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/4fc864ef-b87d-47bb-9486-56f7fa1c7c91)
 
 
+Step 8
+Next , select Add select Principal, type in "everyone" > select Check Names > select OK
+Allow everyone full control (check all boxes) > Select apply > OK
 
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/6100416a-1ea9-4f81-bdc6-e49e6140ba6f)
 
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/3fda99b7-596d-4cc0-95b2-acea494d80a1)
 
 
 
@@ -179,9 +184,7 @@ Select Disable Inheritance > Remove all inherited permissions from this object
 
 
 
-
-
-![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/9187111b-3271-40e0-9881-4e17940c0edb)
+Step 9
 
 Continue Setting Up osTicket in Browser
 Go back to the browser and click Continue
@@ -192,6 +195,9 @@ Last Name: your last name
 Email Address: whichever email you want (needs to be different from the Helpdesk's default email)
 Username: Peter Leon
 Password: Enter password of choice as long as it's strong to protect your information
+
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/9187111b-3271-40e0-9881-4e17940c0edb)
+
 
  ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/cf26d38d-2c86-490b-b172-771a37f7a7d4)
 
