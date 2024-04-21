@@ -33,12 +33,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  
 <h2>Installation Steps</h2>
 
-
+STep1
 We need to install the we will need to install the Internet Information Services (IIS). To install  Internet Information Service we will search for the Control Panel --> under programs select Uninstall a Program.. To install the Web Platform Installer we will search for the Control Panel --> under programs select Uninstall a Program.
 
 <img width="859" alt="os picture 1" src="https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/5ed96ee3-b08a-4e0d-b48d-779f6c7d4c12">
 
 
+Step 2
 
 After we've reached the next page, we can now select to Turn Windows features on or off. Then click the box to enable 'Internet Information Services' (IIS) from the available services.
 
@@ -52,12 +53,13 @@ After we've reached the next page, we can now select to Turn Windows features on
 <img ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/1471bb95-2457-4b52-b598-9d8403ff6b02)
 
 <p>
-
+Step 3
 Enable php in IIS buy going clicking PHP manager and going to php and click php.cgi and click restart.
 
 <img width="616" alt="ab" src="https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/3fe3e6bc-a1b1-4d22-99f2-b8c6edc04609">
 
 
+Step 4
 
 Download osTicket from the Installation Files Folder
 Extract and copy “upload” folder to c:\inetpub\wwwroot
@@ -74,7 +76,7 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
 </p>
 <br />
-
+Step 5
  Restart the IIS Server
 Search for Internet Information Services (IIS) and select Open
 Select Restart on the right-hand side
@@ -92,6 +94,7 @@ This should open osTicket in your web browser
 
 ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/40060ba4-efa6-4bd2-8413-0ae56e6e5b9e)
 
+Step 6
 
 Open Windows Explorer and select C: > inetpub > wwwroot > osTicket > include
 Rename the following file:
@@ -100,6 +103,7 @@ To: ost-config.php
 
 
 ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/80d23456-4063-45db-9bb6-0ff3b2009c4d)
+Step 7
 
  Assign Permissions to ost-config.php
 Right-click ost-config.php
