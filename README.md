@@ -101,14 +101,83 @@ Rename the following file:
 From: ost-SAMPLEconfig.php
 To: ost-config.php
 
-
-![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/80d23456-4063-45db-9bb6-0ff3b2009c4d)
 Step 7
 
  Assign Permissions to ost-config.php
+ 
 Right-click ost-config.php
+
 Open Properties > Security > Advanced > Permissions
+
 Select Disable Inheritance > Remove all inherited permissions from this object
+
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/4fc864ef-b87d-47bb-9486-56f7fa1c7c91)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
