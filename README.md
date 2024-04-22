@@ -206,6 +206,23 @@ Password: Enter password of choice as long as it's strong to protect your inform
 
  ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/e75e715a-1bda-41c3-be50-a3a5d1f03a9c)
 
+Step 10: Download and Install HeidiSQL
+
+Head to osTicket Installation Files link
+
+Download and install HeidiSQL
+
+Open HeidiSQL > Select "New" at the bottom-left corner of the screen
+User: root
+
+Password: Password of your choice
+Select Open
+
+On the left side, right-click Unnamed > select Create New > Database
+Name it “osTicket” and select OK
+
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/dac1c4ae-9ec4-4805-b7d8-b080bb9d3ee8)
+
 
 <img 
 <p>
