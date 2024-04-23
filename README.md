@@ -224,6 +224,15 @@ Name it “osTicket” and select OK
 ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/dac1c4ae-9ec4-4805-b7d8-b080bb9d3ee8)
 
 
+Step 11 : Continue Setting Up osTicket by Filling Out the Fields
+Go back to the browser
+MySQL Database: osTicket (the one you just created in HeidiSQL)
+MySQL Username: root
+MySQL Password of personal choice
+Finally, click Install Now
+
+
+
 <img 
 <p>
 At this point you should have downloaded latest version of osTicket. Uncompress the files and upload files and directories in upload folder to a directory of your choice on your server. For example /osticket/, /helpdesk/ or /support/ depending on your preference. Basic knowledge of using FTP is a plus at this stage. If you don’t know how to use FTP, we would recommend you read the documentation supplied with your FTP client and learn the basics of uploading and setting permissions on files.
