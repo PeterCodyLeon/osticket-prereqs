@@ -204,7 +204,6 @@ Password: Enter password of choice as long as it's strong to protect your inform
 
  
 
- ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/e75e715a-1bda-41c3-be50-a3a5d1f03a9c)
 
 Step 10: Download and Install HeidiSQL
 
@@ -231,7 +230,7 @@ MySQL Username: root
 MySQL Password of personal choice
 Finally, click Install Now
 
-
+ ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/e75e715a-1bda-41c3-be50-a3a5d1f03a9c)
 
 <img 
 <p>
