@@ -232,6 +232,15 @@ Finally, click Install Now
 
  ![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/e75e715a-1bda-41c3-be50-a3a5d1f03a9c)
 
+
+Now you should see congratualions on installing osticket.
+
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/27886b71-e4e4-40b9-a9b5-d3b1f420a89b)
+
+
+
+
+
 <img 
 <p>
 At this point you should have downloaded latest version of osTicket. Uncompress the files and upload files and directories in upload folder to a directory of your choice on your server. For example /osticket/, /helpdesk/ or /support/ depending on your preference. Basic knowledge of using FTP is a plus at this stage. If you don’t know how to use FTP, we would recommend you read the documentation supplied with your FTP client and learn the basics of uploading and setting permissions on files.
